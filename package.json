@@ -1,0 +1,14 @@
+{
+  "name": "bankist-website",
+  "version": "1.0.0",
+  "description": "A website for a bank",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Adefolami",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
